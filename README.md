@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi, my name's James
+- I'm currently a researcher in the ASR/TTS/DSP area
+- I'm working on improving my software development skills by learning Go and HTMX
+- I'm a big nerd for D&D, LotR, and the like
+- jwfosburgh@gmail.com
+- He/Him
 
 <!--
 **jfosburgh/jfosburgh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
