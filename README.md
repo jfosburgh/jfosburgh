@@ -1,4 +1,4 @@
-### Hi, my name's James
+### Hi, I'm James
 - I'm currently a researcher in the ASR/TTS/DSP area
 - I'm working on improving my software development skills by learning Go and HTMX
 - I'm a big nerd for D&D, LotR, and the like
